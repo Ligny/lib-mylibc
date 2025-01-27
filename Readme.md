@@ -162,7 +162,6 @@ xdg-open coverage_report/index.html  # Linux
 | `my_strncmp`     | Compares two strings up to n chars  |
 | `my_strncpy`     | Copies a string up to n chars       |
 | `my_strstr`      | Finds a substring in a string       |
-```
 
 ## License
 
