@@ -1,0 +1,10 @@
+build/
+*.o
+*.a
+*.so
+*.out
+*.dSYM
+*.gcda
+*.gcno
+coverage_report/
+coverage.info
