@@ -101,7 +101,7 @@ xdg-open coverage_report/index.html  # Linux
 
 ### Coverage Report Preview:
 
-![Coverage Report](./coverage_report.png)
+![Coverage Report](./assets/coverage_report.png)
 
 ## Implemented Functions
 
