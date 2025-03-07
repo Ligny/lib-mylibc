@@ -1,10 +1,10 @@
-# libmylibc
+# libC-Recode
 
 ![CI](https://img.shields.io/badge/build-passing-brightgreen) ![Coverage](https://img.shields.io/badge/coverage-100%25-success)
 
 ## Description
 
-**libmylibc** is a custom standard library implementing various string manipulation, memory management, type conversion, input/output, and mathematical operations.
+**libC-Recode** is a custom standard library implementing various string manipulation, memory management, type conversion, input/output, and mathematical operations.
 
 This project includes:
 - An optimized implementation of several common C functions
@@ -14,7 +14,7 @@ This project includes:
 ## Project Structure
 
 ```
-libmylibc/
+libC-Recode/
 ├── include/          # Header files
 ├── src/              # Function implementations
 │   ├── conversion/   # Conversion functions
@@ -32,7 +32,7 @@ libmylibc/
 ### Clone the project
 
 ```sh
-git clone https://github.com/yourusername/libmylibc.git
+git clone https://github.com/Ligny/libC-Recode.git
 ```
 
 ### Install dependencies
@@ -169,5 +169,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using **libmylibc**! 😊
+Thank you for using **libC-Recode**! 😊
 
